@@ -1,2 +1,1 @@
-# coding_challenge_PrismFP
-file venv contains all the python files of my attempts for the challenge.
+The python files Code.py, Testing.py and Testing2.py are all my attempts to solve the challenge. I was not able to get it to give out the values of the fields, given the input, as I had ran out of time. I tried to stay within the time limit of 3 hours. The file working_code.py has a half finished code that filters for intsrument numbers and timestamps. I really enjoyed coding this challenge.
